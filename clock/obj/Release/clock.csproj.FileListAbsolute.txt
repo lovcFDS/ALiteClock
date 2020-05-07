@@ -1,0 +1,12 @@
+C:\Users\李光辉\source\repos\clock\clock\bin\Release\clock.exe.config
+C:\Users\李光辉\source\repos\clock\clock\bin\Release\clock.exe
+C:\Users\李光辉\source\repos\clock\clock\bin\Release\clock.XmlSerializers.dll
+C:\Users\李光辉\source\repos\clock\clock\bin\Release\clock.pdb
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.csprojAssemblyReference.cache
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.Form1.resources
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.Properties.Resources.resources
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.csproj.GenerateResource.cache
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.exe
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.pdb
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.XmlSerializers.dll
+C:\Users\李光辉\source\repos\clock\clock\obj\Release\clock.csproj.CoreCompileInputs.cache
